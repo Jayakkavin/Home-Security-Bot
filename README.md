@@ -1,5 +1,4 @@
 # Home Security Bot
-It's a team project and my team mate is [J.Mohammed Salman](https://github.com/SalmanACE?tab=repositories)
 
 A simple security system to run on a [Raspberry Pi](https://www.raspberrypi.org/).
 
